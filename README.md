@@ -20,7 +20,7 @@
 
 I'm a software developer who is passionate about open source technologies, creating solutions to make life easier for people and companies. Some technologies I enjoy working with include Front-end, Back-end and Mobile, mainly the Javascript Ecosystem, APIs (Rest, GraphQL, Socket) and DevOps.
 
-I build a lot of demos on this account. Most of them are projects that I develop during the study of courses and individual projects.
+In this profile I have some things that I study, work on and improve daily, seeking to use the most modern technology and offering the best user experience.
 
 ----
 
